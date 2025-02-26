@@ -1,0 +1,28 @@
+{
+	"textures": {
+		"type2": "blocks/quartz_block_bottom",
+		"type3": "blocks/bone_block_side"
+	},
+	"models": {
+		"jeronimo/hm/hmwhite": {
+			"textures": [
+				{
+					"blockstate": "with(HMTYPES2.HMWHITE1)"
+				},
+				{
+					"blockstate": "with(HMTYPES2.HMWHITE2)",
+					"retexture": {
+						"stone": "type2"
+					}
+				},
+				{
+					"blockstate": "with(HMTYPES2.HMWHITE3)",
+					"retexture": {
+						"stone": "type3"
+					}
+				}
+			],
+			"y": 0
+		}
+	}
+}

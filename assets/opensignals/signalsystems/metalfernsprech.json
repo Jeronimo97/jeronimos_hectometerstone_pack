@@ -1,0 +1,19 @@
+{
+    "systemProperties": {
+        "placementToolName": "hmtool",
+        "canLink": false,
+        "defaultHeight": 1,
+        "signalHeights": {
+            "config(METALFERNTYP.FERNWAND)": 0
+        }
+    },
+    "seProperties": [
+        {
+            "name": "metalferntyp",
+            "enumClass": "METALFERNTYPE",
+            "defaultState": "FERNSTAND",
+            "changeableStage": "GUISTAGE",
+            "autoname": false
+        }
+    ]
+}

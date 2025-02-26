@@ -1,0 +1,17 @@
+item.hmtool.name=Hectometerstone Placer
+tile.metalhm.name=Hectometerstone
+tile.metalfernsprech.name=Trackside telephone
+tile.metalhm2.name=Hectometerstone white
+property.hmtypes.name=Type
+property.hmtypes.desc=Change design
+property.hmtypes2.name=Type
+property.hmtypes2.desc=Change design
+property.metalferntyp.name=Type
+property.metalferntyp.desc=Change type
+property.value.HMNORMAL=Hectometerstone
+property.value.HMMOSSY=Hectometerstone mossy
+property.value.HMWHITE1=Hectometerstone white 1
+property.value.HMWHITE2=Hectometerstone white 2
+property.value.HMWHITE3=Hectometerstone white 3
+property.value.FERNSTAND=Standing trackside telephone
+property.value.FERNWAND=Hanging trackside telephone

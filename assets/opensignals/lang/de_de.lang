@@ -1,0 +1,18 @@
+item.hmtool.name=Hektometerstein Platzierer
+tile.metalhm.name=Hektometerstein
+tile.metalfernsprech.name=Streckenfernsprecher
+tile.metalhm2.name=Hektometerstein weiß
+property.hmtypes.name=Typ
+property.hmtypes.desc=Ändert das Aussehen
+property.hmtypes2.name=Typ
+property.hmtypes2.desc=Ändert das Aussehen
+property.metalferntyp.name=Typ
+property.metalferntyp.desc=Ändert den Typ
+property.value.HMNORMAL=Hektometerstein
+property.value.HMMOSSY=Hektometerstein bemoost
+property.value.HMWHITE1=Hektometerstein weiß 1
+property.value.HMWHITE2=Hektometerstein weiß 2
+property.value.HMWHITE3=Hektometerstein weiß 3
+property.value.FERNSTAND=Stehender Streckenfernsprecher
+property.value.FERNWAND=Hängender Streckenfernsprecher
+ 

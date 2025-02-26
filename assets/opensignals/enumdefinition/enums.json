@@ -1,0 +1,15 @@
+{
+    "HMTYPESTONE": [
+		"HMNORMAL",
+		"HMMOSSY"
+    	],
+	"HMTYPEWHITE": [
+		"HMWHITE1",
+		"HMWHITE2",
+		"HMWHITE3"
+	],
+	"METALFERNTYPE": [
+		"FERNSTAND",
+		"FERNWAND"
+	]
+}

@@ -1,0 +1,21 @@
+{
+	"textures": {
+		"mossy": "minecraft:blocks/cobblestone_mossy"
+	},
+	"models": {
+		"jeronimo/hm/hmstone": {
+			"textures": [
+				{
+					"blockstate": "with(HMTYPES.HMNORMAL)"
+				},
+				{
+					"blockstate": "with(HMTYPES.HMMOSSY)",
+					"retexture": {
+						"stone": "mossy"
+					}
+				}
+			],
+			"y": 0
+		}
+	}
+}

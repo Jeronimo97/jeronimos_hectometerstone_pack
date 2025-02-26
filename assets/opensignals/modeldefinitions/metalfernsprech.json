@@ -1,0 +1,21 @@
+{
+    "textures": {},
+    "models": {
+		"jeronimo/fern/stand": {
+			"textures": [
+				{
+				"blockstate": "with(METALFERNTYP.FERNSTAND)"
+				}
+			],
+			"y": 0
+		},
+		"jeronimo/fern/wand": {
+			"textures": [
+				{
+				"blockstate": "with(METALFERNTYP.FERNWAND)"
+				}
+			],
+			"y": 0
+		}
+	}
+}
