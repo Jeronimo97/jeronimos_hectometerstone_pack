@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"mossy": "minecraft:blocks/cobblestone_mossy"
+		"mossy": "opensignals:blocks/jeronimo/hm/cobblestone_mossy"
 	},
 	"models": {
 		"jeronimo/hm/hmstone": {

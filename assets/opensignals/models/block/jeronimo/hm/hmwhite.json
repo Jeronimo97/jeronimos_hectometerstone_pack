@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"stone": "blocks/concrete_powder_white",
-		"particle": "blocks/concrete_powder_white"
+		"stone": "opensignals:blocks/jeronimo/hm/concrete_powder_white",
+		"particle": "opensignals:blocks/jeronimo/hm/concrete_powder_white"
 	},
 	"elements": [
 		{

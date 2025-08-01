@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"particle": "blocks/cobblestone",
-		"stone": "blocks/cobblestone"
+		"particle": "opensignals:blocks/jeronimo/hm/cobblestone",
+		"stone": "opensignals:blocks/jeronimo/hm/cobblestone"
 	},
 	"elements": [
 		{

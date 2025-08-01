@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "opensignals:blocks/jeronimo/fern/fern",
-		"1": "blocks/concrete_powder_silver",
-		"2": "blocks/concrete_silver",
-		"3": "blocks/iron_block",
-		"4": "blocks/concrete_black",
-		"particle": "blocks/concrete_powder_silver"
+		"1": "opensignals:blocks/jeronimo/hm/concrete_powder_silver",
+		"2": "opensignals:blocks/jeronimo/hm/concrete_silver",
+		"3": "opensignals:blocks/jeronimo/hm/iron_block",
+		"4": "opensignals:blocks/jeronimo/hm/concrete_black",
+		"particle": "opensignals:blocks/jeronimo/hm/concrete_powder_silver"
 	},
 	"elements": [
 		{

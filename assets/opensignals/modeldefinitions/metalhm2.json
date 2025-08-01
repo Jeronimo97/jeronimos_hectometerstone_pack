@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"type2": "blocks/quartz_block_bottom",
-		"type3": "blocks/bone_block_side"
+		"type2": "opensignals:blocks/jeronimo/hm/quartz_block_bottom",
+		"type3": "opensignals:blocks/jeronimo/hm/bone_block_side"
 	},
 	"models": {
 		"jeronimo/hm/hmwhite": {
